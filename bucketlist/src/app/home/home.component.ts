@@ -9,6 +9,7 @@ export class HomeComponent implements OnInit {
 
   itemCount: number = 4;
   btnText: string = 'Add an item';
+  goalText: string = 'my first life goal';
 
   constructor() { }
 

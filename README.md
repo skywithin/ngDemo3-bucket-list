@@ -20,3 +20,7 @@ Update the following files:
 
 # 6. Add btntext property on home component and display it on home page using PROPERTY BINDING
 [value]="btnText"
+
+# 7. Add goalText property on home component and display it on home page using TWO-WAY DATA BINDING
+- First, need to import FormsModule on app.module.ts
+[(ngModel)]="goalText"
