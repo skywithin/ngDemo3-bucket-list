@@ -24,3 +24,10 @@ Update the following files:
 # 7. Add goalText property on home component and display it on home page using TWO-WAY DATA BINDING
 - First, need to import FormsModule on app.module.ts
 [(ngModel)]="goalText"
+
+# 8. Save user entered data using EVENT BINDING and display on screen
+(click)="addItem()"
+
+<p class="life-container" *ngFor="let goal of goals">
+  {{ goal }}
+</p>
