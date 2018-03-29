@@ -15,5 +15,8 @@ Update the following files:
 - home.component.scss
 - styles.sccs
 
-# 5. Add itemCount property on home component and display it on home page using interpolation
+# 5. Add itemCount property on home component and display it on home page using INTERPOLATION
 {{ itemCount }}
+
+# 6. Add btntext property on home component and display it on home page using PROPERTY BINDING
+[value]="btnText"
