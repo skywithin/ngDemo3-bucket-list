@@ -34,3 +34,5 @@ Update the following files:
 
 # 9. Install angular animations library
 npm install @angular/animations@latest --save
+
+# 10. Add animations for elements added to DOM
