@@ -47,3 +47,11 @@ npm install @angular/animations@latest --save
 
 # 15. Data Sevices
 ng generate service data
+
+# 16. Build application
+ng build --prod
+ng build --prod --base-href="https://skywithin.github.io/ngDemo3-bucket-list/"
+
+# 17. Deploy app to Git Hub Pages
+npm install -g angular-cli-ghpages
+angular-cli-ghpages

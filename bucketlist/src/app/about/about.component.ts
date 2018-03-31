@@ -24,7 +24,7 @@ export class AboutComponent implements OnInit {
     this._data.goal.subscribe(response => this.goals = response);
   }
 
-  sendmeHome() {
+  sendMeHome() {
     this.router.navigate(['']);
   }
 }
