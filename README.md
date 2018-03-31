@@ -42,4 +42,5 @@ npm install @angular/animations@latest --save
 # 12. Routing HOME and ABOUT
 
 # 13. Set and fetch route parameters
- 
+
+# 14. Component-based router navigation
