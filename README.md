@@ -36,3 +36,6 @@ Update the following files:
 npm install @angular/animations@latest --save
 
 # 10. Add animations for elements added to DOM
+
+# 11. Add animations for elements removed from DOM
+
