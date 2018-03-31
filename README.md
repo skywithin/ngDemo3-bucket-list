@@ -31,3 +31,6 @@ Update the following files:
 <p class="life-container" *ngFor="let goal of goals">
   {{ goal }}
 </p>
+
+# 9. Install angular animations library
+npm install @angular/animations@latest --save
