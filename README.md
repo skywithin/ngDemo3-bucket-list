@@ -44,3 +44,6 @@ npm install @angular/animations@latest --save
 # 13. Set and fetch route parameters
 
 # 14. Component-based router navigation
+
+# 15. Data Sevices
+ng generate service data
