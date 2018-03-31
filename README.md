@@ -39,3 +39,5 @@ npm install @angular/animations@latest --save
 
 # 11. Add animations for elements removed from DOM
 
+# 12. Routing HOME and ABOUT
+ 
